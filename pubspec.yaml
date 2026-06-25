@@ -1,0 +1,25 @@
+name: desperta_mulher
+description: Formulário de Avaliação de Risco FONAR — Desperta Mulher
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Mock/page1.json
+    - assets/Mock/page2.json
+    - assets/Mock/page3.json
+    - assets/Mock/page4.json
+    - assets/Mock/page5.json
+    - assets/images/apoiador1.png
+    - assets/images/apoiador2.png
+    - assets/images/apoiador3.png

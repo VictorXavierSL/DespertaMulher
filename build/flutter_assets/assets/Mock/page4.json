@@ -1,0 +1,47 @@
+{
+  "page": 4,
+  "lastPage": 5,
+  "questions": [
+    {
+      "title": "Estão vivendo algum conflito com relação à guarda dos filhos, visitas ou pagamento de pensão pelo agressor?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 3 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    },
+    {
+      "title": "Seu(s) filho(s) já presenciaram ato(s) de violência do(a) agressor(a) contra você?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 4 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Você sofreu algum tipo de violência durante a gravidez ou nos três meses posteriores ao parto?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 4 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Você está grávida ou teve bebê nos últimos 18 meses?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 3 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Se você está em um novo relacionamento, as ameaças ou as agressões físicas aumentaram em razão disso?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 4 },
+        { "title": "Não", "score": 0 }
+      ]
+    }
+  ]
+}

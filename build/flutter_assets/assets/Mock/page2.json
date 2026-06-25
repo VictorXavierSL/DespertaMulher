@@ -1,0 +1,76 @@
+{
+  "page": 2,
+  "lastPage": 5,
+  "questions": [
+    {
+      "title": "O(A) agressor(a) já teve algum destes comportamentos?",
+      "multipleChoice": true,
+      "answers": [
+        { "title": "Disse algo parecido com 'Se não for minha não será de mais ninguém'", "score": 5 },
+        { "title": "Perturbou, perseguiu ou vigiou você nos locais que frequenta", "score": 4 },
+        { "title": "Proibiu você de visitar familiares ou amigos", "score": 3 },
+        { "title": "Proibiu você de trabalhar ou estudar", "score": 3 },
+        { "title": "Fez telefonemas, enviou mensagens pelo celular ou e-mails de forma insistente", "score": 2 },
+        { "title": "Impediu você de ter acesso a dinheiro, conta bancária ou outros bens como documentos", "score": 3 },
+        { "title": "Teve outros comportamentos de ciúme excessivo e de controle sobre você", "score": 2 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Você já registrou ocorrência policial ou formulou pedido de medida protetiva de urgência envolvendo esse(a) mesmo(a) agressor(a)?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 2 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) já descumpriu medida protetiva anteriormente?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 4 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    },
+    {
+      "title": "As agressões ou ameaças do(a) agressor(a) contra você se tornaram mais frequentes ou mais graves nos últimos meses?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 4 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) faz uso abusivo de álcool ou de drogas ou medicamentos?",
+      "multipleChoice": true,
+      "answers": [
+        { "title": "Sim, de álcool", "score": 3 },
+        { "title": "Sim, de drogas ilícitas", "score": 4 },
+        { "title": "Sim, de medicamentos", "score": 2 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) tem alguma doença mental comprovada por avaliação médica?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim e faz uso de medicação", "score": 3 },
+        { "title": "Sim e não faz uso de medicação", "score": 4 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) já tentou suicídio ou falou em suicidar-se?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 3 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    }
+  ]
+}

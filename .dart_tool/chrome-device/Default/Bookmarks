@@ -1,0 +1,236 @@
+{
+   "checksum": "9d9869ada6915d20a551d7a70f1ba5cf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "14111d69-645e-4cfe-bade-18e9b600b5ee",
+            "id": "7",
+            "name": "  ",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.google.com.br/search?q=significado+filosofia+deca&spell=1&sa=X&ved=0ahUKEwjJ99Xv1rjaAhXBi5AKHa9DCx0QBQglKAA&biw=1366&bih=672",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "cf681015-9a9a-4421-8b3d-195b9b627778",
+            "id": "8",
+            "name": "IGGGAMES » Free Download PC Games - Direct Links - Torrent",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://igg-games.com/page/2",
+            "visit_count": 0
+         }, {
+            "date_added": "13326199757812183",
+            "date_last_used": "13412098271446643",
+            "guid": "35d527d9-aad7-423f-a023-b50f17469371",
+            "id": "9",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 1
+         }, {
+            "date_added": "0",
+            "date_last_used": "13377999862396149",
+            "guid": "44ea10b3-8c29-4821-a70e-940842572548",
+            "id": "10",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13326199757816214",
+            "date_last_used": "13345844496895168",
+            "guid": "9b7e0197-37f5-41dd-8534-32a7a13728d4",
+            "id": "11",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "0e5e7e26-7e80-4790-8fa9-d55c619e7f31",
+            "id": "12",
+            "name": "Traduzir",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://translate.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "ce55d289-04a7-49a8-b970-8dfb01d5570d",
+            "id": "13",
+            "name": "Computador Pichau Gamer, i5-8400, GeForce RTX 2060 6Gb Gigabyte, 8GB DDR4, HD 1TB, 500W, Rostock RGB | Pichau",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.pichau.com.br/computadores/computador-pichau-gamer-i5-8400-geforce-rtx-2060-6gb-8gb-ddr4-hd-1tb-500w-pouter-2",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "38821936-b2d3-4569-87b8-0d70c44a08b1",
+            "id": "14",
+            "name": "pq o tiktok tem q ser proibido (@tiktokproibido) / Twitter",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://twitter.com/tiktokproibido",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "eb321f2a-8cc0-4a7a-be81-e6cbf83e06a4",
+            "id": "15",
+            "name": "Twitch",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.twitch.tv/alanzoka",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "07e91453-e4c2-400a-b5bf-d752c818b584",
+            "id": "16",
+            "name": "Twitch",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://clips.twitch.tv/create",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "fd64bfad-a28d-4d82-8207-36fadc50c58d",
+            "id": "17",
+            "name": "RimWorld Mods ⋆ RimWorld Base",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://rimworldbase.com/rimworld-mods/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "50d9bdba-32a6-40d4-ad5a-4c999f2dd191",
+            "id": "18",
+            "name": "Twitch",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://clips.twitch.tv/SuspiciousGlutenFreeRaccoonArgieB8",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "8f5ef9d0-216b-4788-8fd8-ed63c174305d",
+            "id": "19",
+            "name": "Twitchw",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://clips.twitch.tv/AnnoyingFrailAppleKreygasm",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "3fe6ff60-4348-4379-8eac-c1165ebbe31a",
+            "id": "20",
+            "name": "MATEMÁTICA - 9º ANO - 13 a 24/10",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "http://aa/",
+            "visit_count": 0
+         }, {
+            "date_added": "13335901143326404",
+            "date_last_used": "0",
+            "guid": "f0a46dfa-eb20-43ca-8bfc-ee8ff06cc654",
+            "id": "21",
+            "name": "Google",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.google.com.br/",
+            "visit_count": 0
+         } ],
+         "date_added": "13426897155779245",
+         "date_last_used": "0",
+         "date_modified": "13335901143326404",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13299211323710503",
+            "date_last_used": "0",
+            "date_modified": "13299211323710503",
+            "guid": "0103a6dd-d4f4-4d36-96d1-0d0270f8ee98",
+            "id": "22",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13299211323711026",
+            "date_last_used": "0",
+            "date_modified": "13299211323711026",
+            "guid": "23224e25-c805-442d-bec8-eff8b912016b",
+            "id": "23",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13426897155779245",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13426897155779245",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13426889709159830",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "24",
+         "name": "Espaços de trabalho",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCKQUgwCfAQAAKg4QABgBIAAoBjAAOABAABIAKhhnbWllcGR1ejhTVG9zc2NJTVZzSG9nPT1IA6AGDBKtAQgSEqgBChxyZ3U2VnNWN1d2S2lWYnFpWlNleWJKNUo2QmM9EiQ1MGQ5YmRiYS0zMmE2LTQwZDQtYWQ1YS00Yzk5OWYyZGQxOTEYACAAKAAwi4y4sJQwOP2OuLCUMED9jriwlDBKHDBZRDRRK0hXNlRKbE1yL1F1dnFibWJVSW9rbz1aHyId/3kyQkVaLy9CbWYwbndueThlYThYN1l6dUdBbz1lAAAAAMI+AmAAEo4BCBgSiQEKHHdSQnJaTCs2UEE5YXZLZ2pOUDdKWERMY2Z2cz0SJDlmMGEyMzU3LTkzYjMtNWY1Mi04MzdjLTk1ZmU1NDk0MjZhMxgAIAAoADD6z4q0mTM4ntKKtJkzQJ7SirSZM0ocbm14NjVzUUR2eEk4VGdFZXYrQStudHRvU240PVoAZQAAAADCPgJgABKtAQgREqgBChxVOFVjODE0U01VMzdFa3VpSURCWExtaVpBVHc9EiRmZDY0YmZhZC1hMjhkLTRkODItODIwNy0zNmZhZGM1MGM1OGQYACAAKAAwi4y4sJQwON6OuLCUMEDejriwlDBKHEVWL3NuaW8veDI4aXQ0L1VXYk4xbkhJYldyaz1aHyId/2VxaXRPcElsVVgwZGNiZ2MyT1VUS2dXb0ZTcz1lAAAAAMI+AmAAEq0BCBASqAEKHHpMZDRSL2owdHBrQUNpU1VVc2ZkMkxhWkhuWT0SJDA3ZTkxNDUzLWU0YzItNDAwYS1iNWJmLWQ3NTJjODE4YjU4NBgAIAAoADCLjLiwlDA4v464sJQwQL+OuLCUMEocUVdINk1NenlkVVMwTlFuMkptcTZKY1kxR3RnPVofIh3/SStmZTlIMVVmaW5jblRFR1MrQ0JWU0NDUFJFPWUAAAAAwj4CYAASrQEIDxKoAQocbDUrbTdUMjJvZ1RCSlYyV044ZlhsQ0sxNHlBPRIkZWIzMjFmMmEtOGNjMC00YTdhLWJlODEtZTZjYmY4M2UwNmE0GAAgACgAMIuMuLCUMDivjriwlDBAr464sJQwShxDdVF5SW9XZmQxK3M1U1p1Tm5SamZya2I0d2M9Wh8iHf5GZDJFNFM1OU9FcEtCc0NaZ0IrVm5Jait1QXc9ZQAAAADCPgJgABKtAQgOEqgBChxuZ21HRjRwNWM5L2k3Q1JkL1dIbUFMUkpTYkk9EiQzODgyMTkzNi1iMmQzLTQ1NjktODdiOC0wZDcwYzQ0YTA4YjEYACAAKAAwmqHYiMIxOOSMuLCUMEDkjLiwlDBKHFAxVHczZjFvUTJLVFhuWEhFZHlaTjRRZSsyVT1aHyId/TNtdXdTVld3THJKM1lPYzUraVdiZ0FMZ0NrMD1lKpUlj8I+AmAAEq0BCA0SqAEKHFVEa3hoUWhsZzNJNXp4aXo3djhyNmQyWk5POD0SJGNlNTVkMjg5LTA0YTctNDlhOC1iOTcwLThkZmIwMWQ1NTcwZBgAIAAoADCZodiIwjE4kI64sJQwQJCOuLCUMEocZ2xIL3dTYWtCZVBYa0dNRUU0eTJ1aWRNTDlVPVofIh37Y0tQWmdBRHFtaWNxaUlrMVBKL0t2WEFZVlhZPWVaXp1Ewj4CYAASrAEICBKnAQocaDhMRG1QZ1crQkkrZk56S1VMdVVvYktuUzE0PRIkY2Y2ODEwMTUtOWE5YS00NDIxLThiM2QtMTk1YjliNjI3Nzc4GAAgACgAMIuMuLCUMDjxjbiwlDBA8Y24sJQwShwyS0NnMTgxNGx6UGFSUkFIeHdIYXlROENVbU09Wh4iHGJoa2ZHUXFWUlVSMHJWVi9Zc3AvdCszd09VUT1lAAAAAMI+AmAAEq0BCAwSqAEKHC9RK3FVQmpTUXMxS0cxT3Z2Zkc5SWlzdi9KUT0SJDBlNWU3ZTI2LTdlODAtNDc5MC04ZmE5LWQ1NWM2MTllN2YzMRgAIAAoADCLjLiwlDA4o424sJQwQKONuLCUMEocTUROKzRtV3ZlUEE2d01ZOXJLcXhrc3k5R21zPVofIh32MWlwanBzLzRSTC9RbTVvUWJSZ0hwZW5KS1dNPWUAAAAAwj4CYAASrgEIFBKpAQocQVYvSmZiOHB5L096NFliY0t0UDJPOHB1RGl3PRIkM2ZlNmZmNjAtNDM0OC00Mzc5LThlYWMtYzExNjVlYmJlMzFhGAAgACgAMIuMuLCUMDiTjbiwlDBAk424sJQwShxNNHBWSVBLR2piU2N4cG5zdkNnTjF0WEp1Zmc9WiAiHv/eeW1Mdk44V2trZndLWUZPQTN1S2MzRWFNeFVZPWUAAAAAwj4CYAASrgEIExKpAQoccGNLSFVmUHQ2R29YUE9YWm9HWFYxUGVNVk9FPRIkOGY1ZWY5ZDAtMjE2Yi00Nzg4LThmZDgtZWQ2M2MxNzQzMDVkGAAgACgAMIuMuLCUMDj0jLiwlDBA9Iy4sJQwShxtT0hVUFRwUEdjenJBZVlrUmR0Um9OVC8veGc9WiAiHv+8LytOVHc1QU9xQzZTQVNxRnNwSjIyK3ViN0tVPWUAAAAAwj4CYAASrQEICxKoAQocbzNXNGtvN3UzeUlvbWF3TlVIQkkvK0xsSmRnPRIkOWI3ZTAxOTctMzdmNS00MWRkLTg1MzQtMzJhN2ExMzcyOGQ0GAAgACgAMPbg7ozCMTjCjbiwlDBAwo24sJQwShxMbU1CbkpyOUhuMWZvQUVadDZDa1dXbnFNSnM9Wh8iHex6cVdaeG9BbkJKZHBZbnliL3ZEVUdNU0J1U2c9ZT1shRHCPgJgABKtAQgJEqgBChxKVXV6di85ZHpQZkpMaGNJSWlFd0ZvU2xXb3c9EiQzNWQ1MjdkOS1hYWQ3LTQyM2YtYTAyMy1iNTBmMTc0NjkzNzEYACAAKAAw+bmV9bgzOM+OuLCUMEDPjriwlDBKHDRPNUcrd2xmaVY4dVVzSWpiV1djenlaVWV4WT1aHyIdsUJnYXBwK1p5cUxjZmJOSzNVUGZ2NnFJVWxWST1lIjmYNsI+AmAAEq4BCBUSqQEKHGt2U3l4UXdYOTRwZnRtQThRU1Zzdk9UdXpubz0SJGYwYTQ2ZGZhLWViMjAtNDNjYS04YmZjLWVlOGZmMDZjYzY1NBgAIAAoADCYodiIwjE44Pvo2bwxQOD76Nm8MUocd0FTRjJvd1VFMU41WVRUTmZEbWFvaDZWd2JRPVogIh7/72pGajFVOXVWM1JMb0xqZThZRWtYV3BOTFNGcz1lEDD/5MI+AmAAEqwBCBYSpwEKHGVpOHlWaXBMMVRrY3NYaWZwRy9XNTJQa1VQUT0SJDAxMDNhNmRkLWQ0ZjQtNGQzNi05NmQxLTBkMDI3MGY4ZWU5OBgAIAAoADCLjLiwlDA4gI64sJQwQICOuLCUMEocWW5FL3RMTFZ5dVBFU3cwWnA5aVZKSmU5UkZrPVoeIhxXMTNZQVZwcU9vVG5HeThMcUgzNzhZQVJmalk9ZQAAAADCPgJgABKsAQgHEqcBChxJWjNDMlBGdDU3T2wwTVltbXVtM2pjNWRwQ1U9EiQxNDExMWQ2OS02NDVlLTRjZmUtYmFkZS0xOGU5YjYwMGI1ZWUYACAAKAAwi4y4sJQwOLKNuLCUMECyjbiwlDBKHHlYREN1eUtZK3FLTlJNQWlBT3QvVmx4VThOcz1aHiIcQTlNZlZHa2R2WVlJWWl4WHdQWTNHdzBmQitNPWUAAAAAwj4CYAASrQEIChKoAQocNUdBM0MzQVhnZU5XbnhUSXVBNUh2ZDdURDAwPRIkNDRlYTEwYjMtOGMyOS00ODIxLWE3MGUtOTQwODQyNTcyNTQ4GAAgACgAMJ7N3vG5Mji1jLiwlDBAtYy4sJQwShxFblR0cjdIK3VEallMdWphMmZ6OGdOdDU3TE09Wh8iHdgvOGhvTmNGY0hvSk5zWFVZOHAwelBXQnNzZ0U9Zf2cjErCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ3YTg0OTk5NC01NzY5LTU4MzktODMzZi1hMjZhZDU0YTg4YjIYACAAKAAwrr3pxbAwOPXOuvaEMED1zrr2hDBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASrAEIFxKnAQocQmNaQzVwa0cvK3ZSUkh1Z1VsdXJPeENTSnMwPRIkMjMyMjRlMjUtYzgwNS00NDJkLWJlYzgtZWZmOGI5MTIwMTZiGAAgACgAMIuMuLCUMDjSjbiwlDBA0o24sJQwShxXS1BFNzN2TysrUE1FMnhpNzdkSFlIeU5JRW89Wh4iHGRvTmFUSXhGM2pEOGVuNmNRM0dLVUFTNmt6WT1lAAAAAMI+AmAAEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDEwYzk5ZjdmLTU2Y2YtNWM4NS04YmMxLTIxZjNjZjdiNDEzOBgAIAAoADCuvenFsDA4p8669oQwQKfOuvaEMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ2NDhmMTIyZC02MjRkLTVjNGEtODM4Ni0zNmI3ZGVmYmQ2NTYYACAAKAAwrr3pxbAwOIfOuvaEMECHzrr2hDBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

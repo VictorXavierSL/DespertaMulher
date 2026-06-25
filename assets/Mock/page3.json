@@ -1,0 +1,74 @@
+{
+  "page": 3,
+  "lastPage": 5,
+  "questions": [
+    {
+      "title": "O(A) agressor(a) está com dificuldades financeiras, está desempregado ou tem dificuldade de se manter no emprego?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 3 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) já usou, ameaçou usar arma de fogo contra você ou tem fácil acesso a uma arma?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim, usou", "score": 5 },
+        { "title": "Sim, ameaçou usar", "score": 4 },
+        { "title": "Tem fácil acesso", "score": 3 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) já ameaçou ou agrediu seus filhos, outros familiares, amigos, colegas de trabalho, pessoas desconhecidas ou animais?",
+      "multipleChoice": true,
+      "answers": [
+        { "title": "Sim, filhos", "score": 5 },
+        { "title": "Sim, outros familiares", "score": 3 },
+        { "title": "Sim, amigos", "score": 2 },
+        { "title": "Sim, colegas de trabalho", "score": 2 },
+        { "title": "Sim, outras pessoas", "score": 2 },
+        { "title": "Sim, animais", "score": 2 },
+        { "title": "Não", "score": 0 },
+        { "title": "Não sei", "score": 1 }
+      ]
+    },
+    {
+      "title": "Você se separou recentemente do(a) agressor(a), tentou ou manifestou intenção de se separar?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 4 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Você tem filhos?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim, com o(a) agressor(a)", "score": 3 },
+        { "title": "Sim, de outro relacionamento", "score": 2 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Qual a faixa etária de seus filhos?",
+      "multipleChoice": true,
+      "answers": [
+        { "title": "0 a 11 anos", "score": 3 },
+        { "title": "12 a 17 anos", "score": 2 },
+        { "title": "A partir de 18 anos", "score": 0 }
+      ]
+    },
+    {
+      "title": "Algum de seus filhos é pessoa com deficiência?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 3 },
+        { "title": "Não", "score": 0 }
+      ]
+    }
+  ]
+}

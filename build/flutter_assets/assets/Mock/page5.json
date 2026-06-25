@@ -1,0 +1,61 @@
+{
+  "page": 5,
+  "lastPage": 5,
+  "questions": [
+    {
+      "title": "Você possui alguma deficiência ou doença degenerativa que acarretam condição limitante ou de vulnerabilidade física ou mental?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 3 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Com qual cor/raça você se identifica?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Amarela", "score": 0 },
+        { "title": "Branca", "score": 0 },
+        { "title": "Cigana", "score": 0 },
+        { "title": "Indígena", "score": 0 },
+        { "title": "Judaica", "score": 0 },
+        { "title": "Parda", "score": 0 },
+        { "title": "Preta", "score": 0 },
+        { "title": "Quilombola", "score": 0 }
+      ]
+    },
+    {
+      "title": "Você considera que mora em bairro, comunidade, área rural ou local de risco de violência?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 2 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Qual sua situação de moradia?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Alugada", "score": 1 },
+        { "title": "Cedida ou de favor", "score": 2 },
+        { "title": "Própria", "score": 0 }
+      ]
+    },
+    {
+      "title": "Você se considera dependente financeiramente do(a) agressor(a)?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 3 },
+        { "title": "Não", "score": 0 }
+      ]
+    },
+    {
+      "title": "Você quer e aceita abrigamento temporário?",
+      "multipleChoice": false,
+      "answers": [
+        { "title": "Sim", "score": 0 },
+        { "title": "Não", "score": 0 }
+      ]
+    }
+  ]
+}
